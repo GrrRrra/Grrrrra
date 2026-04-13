@@ -56,8 +56,31 @@ I graduated from Dong-Eui University, and I'm set to join a smart factory compan
 
 ## Hobbies
 ### Solved.ac 📚
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdduswns02)](https://solved.ac/wjdduswns02)
-  
+
+<p align="center">
+  <a href="https://solved.ac/wjdduswns02">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=wjdduswns02" alt="Solved.ac Profile" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Grrrrra&show_icons=true&theme=gruvbox"
+        alt="Grrrrra GitHub stats"
+        height="165"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grrrrra&layout=compact&theme=gruvbox"
+        alt="Top Langs"
+        height="165"
+      />
+    </td>
+  </tr>
+</table>
 
 ### Music 🎧
 <!-- BEGIN YOUTUBE-CARDS -->
