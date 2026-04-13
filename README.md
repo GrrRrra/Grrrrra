@@ -69,7 +69,7 @@ I graduated from Dong-Eui University, and I'm set to join a smart factory compan
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=Grrrrra&theme=dracula"
       alt="Grrrrra's github activity graph"
-      width=500
+      width=460
     />
   </a>
 </p>
