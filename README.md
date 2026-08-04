@@ -20,6 +20,7 @@ I graduated from Dong-Eui University, and I'm set to join a smart factory compan
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+<!-- 
 ## Favorites
 
 <table align="center">
@@ -54,6 +55,7 @@ I graduated from Dong-Eui University, and I'm set to join a smart factory compan
   </tr>
 </table>
 
+-->
 ## Hobbies
 ### Solved.ac 📚
 
