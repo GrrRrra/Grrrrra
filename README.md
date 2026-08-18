@@ -1,6 +1,6 @@
 <!-- Profile README for YOUR_GITHUB_ID -->
 
-# HOLA, GitHub (PAGO)
+# HOLA, GitHub
 
 I'm a junior developer who loves backend engineering and databases, and I'm steadily growing.
 I graduated from Dong-Eui University, and I'm set to join a smart factory company soon!
