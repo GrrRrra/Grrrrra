@@ -55,18 +55,18 @@ I graduated from Dong-Eui University, and I'm set to join a smart factory compan
 <p align="center">
   <a href="https://solved.ac/wjdduswns02">
     <img
-      src="http://mazassumnida.wtf/api/generate_badge?boj=wjdduswns02"
+      src="https://mazassumnida.wtf/api/generate_badge?boj=wjdduswns02"
       alt="Solved.ac Profile"
     />
-  </a>
-  
+  </a><!--
   <a href="https://github.com/Grrrrra">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=Grrrrra&theme=dracula"
       alt="Grrrrra's github activity graph"
-      width=460
+      width="460"
     />
   </a>
+  -->
 </p>
 
 ### Music 🎧
@@ -76,8 +76,8 @@ I graduated from Dong-Eui University, and I'm set to join a smart factory compan
 [![Avid](https://ytcards.demolab.com/?id=0s93gfmrD9I&title=Avid&lang=en&timestamp=1673949869&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=5)](https://www.youtube.com/watch?v=0s93gfmrD9I)
 [![This Love (G-Dragon Solo)](https://ytcards.demolab.com/?id=CVhsLqp-Yts&title=This+Love+%28G-Dragon+Solo%29&lang=en&timestamp=1576088515&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=5)](https://www.youtube.com/watch?v=CVhsLqp-Yts)
 [![Yin and Yang (FANXY CHILD Ver.)(Feat. DEAN, PENOMECO)](https://ytcards.demolab.com/?id=dbBwv38Ycaw&title=Yin+and+Yang+%28FANXY+CHILD+Ver.%29%28Feat.+DEAN%2C+PENOMECO%29&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=5)](https://music.youtube.com/watch?v=dbBwv38Ycaw&si=Mgj5Ri8WyUnbAMEY)
-[![No Gradation](https://ytcards.demolab.com/?id=8XtJhe7TndI&title=YouTube+Music&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=5)](https://music.youtube.com/watch?v=8XtJhe7TndI&si=8UQtgUK75d6RvU-A)
-[![悪魔の子](https://ytcards.demolab.com/?id=tdzsOODJiX8&title=%E6%82%AA%E9%AD%94%E3%81%AE%E5%AD%90&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=5)](https://music.youtube.com/watch?v=tdzsOODJiX8&si=Y6rWOcjQH5l9enKi)
+[![Knocks Me Off My Feet](https://ytcards.demolab.com/?id=BI4sC5hidUg&title=Stevie%20Wonder%20-%20Knocks%20Me%20Off%20My%20Feet&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=5)](https://music.youtube.com/watch?v=BI4sC5hidUg)
+[![Back At One](https://ytcards.demolab.com/?id=rXPfovXw2tw&title=Brian%20McKnight%20-%20Back%20At%20One&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=5)](https://music.youtube.com/watch?v=rXPfovXw2tw)
 [![JANE DOE](https://ytcards.demolab.com/?id=zuO2fClon98&title=JANE+DOE&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=5)](https://music.youtube.com/watch?v=zuO2fClon98&si=LPPAyFnRZ16Rcu2Q)
 <!-- END YOUTUBE-CARDS -->
 
